@@ -2,7 +2,7 @@ package br.com.hotel.src.DAO;
 
 import java.util.List;
 // gestor Data Object interface
-public interface DAO<T> {
+public interface DAOgestor<T> {
 
 	List<T> listar();
 

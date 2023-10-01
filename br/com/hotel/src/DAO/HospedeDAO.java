@@ -11,7 +11,7 @@ import java.util.List;
 
 import br.com.hotel.src.modelo.Hospede;
 
-public class HospedeDAO implements DAO<Hospede> {
+public class HospedeDAO implements DAOgestor<Hospede> {
 
 	private Connection connection;
 

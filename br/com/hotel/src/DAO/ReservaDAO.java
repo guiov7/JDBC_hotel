@@ -11,7 +11,7 @@ import java.util.List;
 
 import br.com.hotel.src.modelo.Reserva;
 
-public class ReservaDAO implements DAO<Reserva> {
+public class ReservaDAO implements DAOgestor<Reserva> {
 
 	private Connection connection;
 
