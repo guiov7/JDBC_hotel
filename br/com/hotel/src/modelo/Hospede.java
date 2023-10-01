@@ -36,6 +36,6 @@ public class Hospede extends Usuario {
 	
 	@Override
 	public String toString() {
-		return "Hóspede: " + super.toString();
+		return "Hospede: " + super.toString();
 	}
 }
