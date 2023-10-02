@@ -2,7 +2,7 @@
 
 Badge Exclusiva do Desafio 🏆
 
-![Alt text]`(JDBC_hotel/image/README/1696248089946.png)`
+![Alt text](JDBC_hotel/image/README/1696248089946.png)
 
 Olá, neste projetinho vamos utilizar a ferramenta JDBC nativa da linguagem Java desde a versão 1.1 do Java SE.
 
